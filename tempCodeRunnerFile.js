@@ -1,0 +1,1 @@
+iPhone.changePrice('$299.99')
